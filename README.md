@@ -97,7 +97,7 @@ Here’s a quick overview of my coding journey, contributions, and consistency.
 
 | GitHub Stats | Streak |
 |--------------|--------|
-| ![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117) | ![](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117) |
+| ![](https://github-readme-stats.vercel.app/api?username=AKHIL-SAURABH&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117) | ![](https://github-readme-streak-stats.herokuapp.com?user=AKHIL-SAURABH&theme=github-dark-blue&hide_border=true&background=0d1117) |
 
 </div>
 
