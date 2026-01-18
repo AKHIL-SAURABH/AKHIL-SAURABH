@@ -100,6 +100,22 @@ Here’s a quick overview of my coding journey, contributions, and consistency.
   <a href="https://github.com/AKHIL-SAURABH/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=AKHIL-SAURABH&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
 </p>
 
+<td width="52%" valign="top">
+
+<!-- Profile Views Counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AKHIL-SAURABH&color=FFD700&style=for-the-badge&label=Profile+Views" />
+</p>
+</div>
+
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKHIL-SAURABH&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="50%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=AKHIL-SAURABH&theme=highcontrast&hide_border=true" width="55%"/>
+</p>
 
 
 </div>
